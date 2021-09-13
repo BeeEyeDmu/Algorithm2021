@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+// Euclid Algorithm - Recursive GCD
 namespace A001_Euclid
 {
   /// <summary>
